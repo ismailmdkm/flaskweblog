@@ -71,7 +71,6 @@ instance/
 app.db
 microblog.log*
 flaskweblog.log*
-app.db
 
 # Scrapy stuff:
 .scrapy
